@@ -7,7 +7,7 @@ public class App {
 		Posicao p3 = new Posicao("C");
 		Posicao p4 = new Posicao("D");
 		
-		p1.addPath('d', p2);
+		p1.addPath('s', p2);
 		p1.addPath('s', p3);
 		
 		p2.addPath('s', p4);
